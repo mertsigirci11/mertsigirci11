@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Hi 👋, I'm Mert <br>A junior fullstack developer 👨‍💻 🚀</div>  
+# <div align="center">Hi 👋, I'm Mert <br>Let's change the future 👨‍💻 🚀</div>  
 - 📫 How to reach me: **mert.sigirci@ogr.sakarya.edu.tr** or **[LinkedIn](https://www.linkedin.com/in/mert-s%C4%B1%C4%9F%C4%B1rc%C4%B1-331729197/)**  
   
 
