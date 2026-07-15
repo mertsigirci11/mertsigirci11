@@ -4,10 +4,8 @@
   
 
 # <div align="center">Hi 👋, I'm Mert <br>Let's change the future 👨‍💻 🚀</div>  
-- 📫 How to reach me: **mert.sigirci@ogr.sakarya.edu.tr** or **[LinkedIn](https://www.linkedin.com/in/mert-s%C4%B1%C4%9F%C4%B1rc%C4%B1-331729197/)**  
+- 📫 How to reach me: **mertsgrci@hotmail.com** or **[LinkedIn](https://www.linkedin.com/in/mert-sigirci/)**  
   
-
-- 🌱 I’m currently learning **Spring** & **React**  
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
